@@ -16,6 +16,6 @@ build: [
 depends: [
   "ocaml"              {>= "4.08.0"}
   "lwt"                {>= "5.5.0"}
-  "dune"               {>= "2.0.0"}
+  "dune"               {>= "2.9.0"}
   "spamtacus-bayesian" {= version}
 ]
