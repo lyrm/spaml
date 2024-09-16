@@ -6,4 +6,4 @@
 (executable
  (name test_features)
  (modules test_features)
- (libraries spamtacus_mirage mrmime))
+ (libraries spamtacus_mirage rresult mrmime))
